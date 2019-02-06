@@ -6,7 +6,7 @@ JavaScript is one of the most demanded programming skills. [ref: it.jobindex.dk]
 
 JavaScript this semester will provide students with the background to join modern front-end teams, using JS and supplementing JS frameworks/libraries.
 
-## Important about our references for JavaScript
+## Important info related to our references for JavaScript
 *There are tons of JavaScript articles on the Web. The two "major" resources are https://www.w3schools.com/ and MDN (Mozilla). Usually, articles from the first, are easier to read, more light weight, and often not quite as up to date as MDN. MDN should be considered the reference documentation.
 Often when you Google, articles from w3schools will pop up first. If you prefer MDN, add this to you search term, for example `javascript array MDN`. If you prefer w3, where you often can try things out, do "javascript array w3".*
 
