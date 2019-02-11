@@ -23,6 +23,9 @@ Often when you Google, articles from w3schools will pop up first. If you prefer 
 - [The JavaScript Array](https://docs.google.com/document/d/1eEJbwvOn19fy9MoasclKURqpk3rRVSHZ4S0hGsQUG3s/edit?usp=sharing)
 - [JavaScript Ex-1](https://docs.google.com/document/d/1g4NPayMnNV8UUNdoTLZdcf4BehCip14QDuRwa4V7uFU/edit?usp=sharing)
 
+### Slides
+- [slides, plain JS](http://sem3slides.mydemos.dk/js1/js.html#1)
+
 ## Day 2 (12/2) - Document Object Model (DOM)
 *An introduction to the Document Object Model (DOM).  The "thing" we can manipulate with JavaScript to dynamically change the content on a page*
 ### Before this lesson you should
