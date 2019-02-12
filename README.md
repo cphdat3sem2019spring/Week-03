@@ -1,5 +1,8 @@
 # Week3 - JavaScript and the Document Object Model (DOM)
 
+## Snippet File
+[snippet](https://docs.google.com/document/d/1ePj-97R0L_jyRdCNBiSk_NvyoA-vqfnyXOKyzRI4T1s/edit?usp=sharing)
+
 ## Business competences
 
 JavaScript is one of the most demanded programming skills. [ref: it.jobindex.dk](https://it.jobindex.dk/jobsoegning?q=javascript&supid=1)
