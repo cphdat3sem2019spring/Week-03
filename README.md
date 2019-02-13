@@ -38,6 +38,9 @@ Often when you Google, articles from w3schools will pop up first. If you prefer 
 ### Exercises
 - [Dom Manipulation and Events](https://docs.google.com/document/d/1vctwfldnReoszybFU0jO7Jm7JQ4Ia-CJvEymaj-QClM/edit?usp=sharing)
 
+### Slides
+- [Dom and JS Events](https://docs.google.com/presentation/d/1CgufGiVPmZeXrQ4m18O1wurOqozwRD1DYTQeQ9IsgAY/edit?usp=sharing)
+
 ### Day 3-5 (13/2-15/2) - CA1
 
 Day 3-5: [CA1](https://docs.google.com/document/d/13TM3p2zq4u3cieJtIYQTnQaN7gYspyk9EIYxX0D_JgA/edit?usp=sharing)
